@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
 # [About Me](/) / [Projects](/projects)
 
 ## About Me
@@ -24,4 +26,4 @@ Having succesfully delivered a number of [Projects](/projects) here, I was promo
 
 - [LinkedIn](www.linkedin.com/in/philip-reed)
 - [StackOverflow](https://stackoverflow.com/users/2064829/philreed)
-- [Twitter](https://twitter.com/philip_reed)
+- <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/philip_reed)
