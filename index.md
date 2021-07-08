@@ -24,6 +24,4 @@ Having succesfully delivered a number of [Projects](/projects) here, I was promo
 
 ## Socials
 
-<i class="fab fa-fw fa-linkedin-in"></i> [LinkedIn](www.linkedin.com/in/philip-reed)  
-<i class="fab fa-fw fa-stack-overflow"></i> [StackOverflow](https://stackoverflow.com/users/2064829/philreed)  
-<i class="fab fa-fw fa-twitter"></i> [Twitter](https://twitter.com/philip_reed)
+<i class="fab fa-fw fa-linkedin-in"></i> [LinkedIn](www.linkedin.com/in/philip-reed) / <i class="fab fa-fw fa-stack-overflow"></i> [StackOverflow](https://stackoverflow.com/users/2064829/philreed) / <i class="fab fa-fw fa-twitter"></i> [Twitter](https://twitter.com/philip_reed)
