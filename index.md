@@ -1,3 +1,5 @@
+[About Me](/) [Projects](/projects)
+
 ## About Me
 
 .Net Software Developer with over 15 years of experience writing software.
