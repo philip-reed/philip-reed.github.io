@@ -1,4 +1,4 @@
-[About Me](/) [Projects](/projects)
+# [About Me](/) / [Projects](/projects)
 
 ## About Me
 
