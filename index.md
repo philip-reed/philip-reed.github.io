@@ -3,7 +3,8 @@
 
 ## About Me
 
-.Net Software Developer with over 15 years of experience writing software.
+.Net Software Developer with over 15 years of experience writing software.  
+Father of 2, who enjoys mountain biking, walking, and spending time with family.
 
 ### <i class="fas fa-fw fa-baby"></i> Where I started
 Fresh from uni at Sheffield Hallam, I started working for a company as a **Software Developer** writing embedded C++ for set-top boxes for satellite TV.  
