@@ -3,7 +3,7 @@
 
 ## Projects
 ### Workshop Planning
-My first major project was to create a scheduling tool to allow various CNC stations in the workshop to have visibility of upcoming tasks and their priority.
+My first major project was to create a scheduling tool to allow various CNC stations in a workshop to have visibility of upcoming tasks and their priority.
 The software was to replace a card based system where different coloured cards represented the priority of the job.
 As you can imagine, the cards were often lost or cherry picked, so a better solution was required.
 The data on the tasks, and bills of materials were managed by Sage Line 500 backed by an Oracle database.
@@ -12,7 +12,7 @@ Eventually this software grew to include primitive capacity planning capabilitie
 `VB.NET` `Oracle` `T-SQL` `Entity Framework`
 
 ### Customer Portal
-This project was to allow customers from around the world to log in to view the status of their orders.  The complexity here was that order data was stored in 3 different locations globally, using 2 different ERP systems.  This was abstracted away by creating an OData API, which mapped the data model for each ERP system to a common model which could be consumed by the customer portal. This was eventually flipped and the data for the orders was scraped from each location into a cental data warehouse closer to the web host to enable better query performance.  The portal allowed customers to qet the current status of their orders, and perform stock enquiries.
+This project was to allow customers from around the world to log in to view the status of their orders.  The complexity here was that order data was stored in 3 different locations globally, using 2 different ERP systems.  This was abstracted away by creating an OData API, which mapped the data model for each ERP system to a common model which could be consumed by the customer portal. This was eventually flipped and the data for the orders was scraped from each location into a cental data warehouse closer to the web host to enable better query performance.  The portal allowed customers to get the current status of their orders, and perform stock enquiries.  
 `C#` `ASP.NET MVC` `OData` `Oracle` `Microsoft Sql Server` `T-SQL` `Entity Framework 4`
 
 ### Trailer CCTV
