@@ -17,8 +17,8 @@ Check out the [Projects](/projects) page for more info on what I did here.
 
 ### <i class="fas fa-fw fa-medal"></i> Moving On
 I then joined a large retail firm as a **Senior Developer**, working within a team responsible for software running the operations in the warehouses. Here I'd like to think I made a big contribution in bringing my existing Devops knowledge to help the teams update their manual build & deployment process. 
-I led the way in migrating source control away from TFS to git to help streamline devops practices, and also started using Azure, and started getting certified.
-Having succesfully delivered a number of [Projects](/projects), I was promoted to **Lead Developer**, this means I have slightly less time to write code, but I still have a love for technology and continue to expand my skills.  
+I led the way in migrating source control away from TFS to git to help streamline devops practices, and also started using Azure, and began my path to becoming certified.
+Having successfully delivered a number of [Projects](/projects), I was promoted to **Lead Developer**, this means I have slightly less time to write code and focus more on architecture and mentoring, but I still have a love for technology and continue to expand my skills.  
 `C#` `ASP.NET Core` `Angular` `Web Api` `Azure IaaS/PaaS` `Azure Service Bus` `Azure Cosomos DB` `Git`
 
 
