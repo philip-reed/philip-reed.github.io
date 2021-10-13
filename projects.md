@@ -36,4 +36,8 @@ State Machines are configured using a dedicated admin screens, and state is pres
 `C#` `ASP.NET Core` `Web Api` `Angular` `Azure Cosmos DB` `SignalR` `Azure App Service`
 
 ### Parcel Packing
+A state machine implementation defining the business process requirements for packing a parcel.
+The idea here was to replace various existing packing applications with a single, scaleable solution that all of the business could use.
+To achieve this, several micro-services were implemented to break down the processes into key areas, with a focus on scalablility and perfomance.
+Challeneges here were understanding the correct data model to use for Cosmos DB, and finding the balance between performance and costs for the Azure Services.
 `C#` `ASP.NET Core` `Web Api` `Angular` `Azure Cosmos DB` `Azure App Service` `Azure Service Bus`
