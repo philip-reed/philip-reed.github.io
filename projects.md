@@ -23,21 +23,21 @@ Given that each supplier's API could have a different contract (though all with 
 `C#` `ASP.NET Core` `Web Api` `Angular` `Microsoft Sql Server` `Entity Framework Core` `IBM Websphere MQ`
 
 ### Stock Checking
-A system which directs stock checkers to validate stock levels at specific locations within a warehouse.
+A system which directs stock checkers to validate stock quantities at specific locations within a warehouse.
 Data on which locations need to be validated are provided via IBM MQ Messages and an ETL operation imports the data into a SQL Server database.
-A handset device then interrogates this data to direct users to the locations within the warehouse.  
+A handset device running Windows CE then interrogates this data to direct users to the locations within the warehouse. 
+A management dashboard was also created to allow management to monitor the volume and progress of staff.  
 `C#` `ASP.NET Core` `Web Api` `Angular` `Microsoft Sql Server` `Entity Framework Core` `IBM Websphere MQ`
 
 ### State Machine Runner
 A generic presentation layer rendering the UI for various state machine based applications.
 The Angular front end provides various pre-defined 'states' where a user is prompted for an action and exposes a contract to which a remote API can implement.
-User inputs are sent to the configured remote API, where any process specific business logic is executed, and a standard response is returned which instructs the State Machine Runner which state to render next.
-State Machines are configured using a dedicated admin screens, and state is preserved using Cosmos DB.  
+User inputs are sent to the configured remote API hosting the business process, where any business logic is executed, and a standard response is returned which instructs the State Machine Runner which state to render next.  State Machines are configured using a dedicated admin screens, and state is preserved using Cosmos DB.  
 `C#` `ASP.NET Core` `Web Api` `Angular` `Azure Cosmos DB` `SignalR` `Azure App Service`
 
 ### Parcel Packing
 A state machine implementation defining the business process requirements for packing a parcel.
 The idea here was to replace various existing packing applications with a single, scaleable solution that all of the business could use.
 To achieve this, several micro-services were implemented to break down the processes into key areas, with a focus on scalablility and perfomance.
-Challeneges here were understanding the correct data model to use for Cosmos DB, and finding the balance between performance and costs for the Azure Services.  
+Challenges here were understanding the correct data model to use for Cosmos DB, and finding the balance between performance and costs for the Azure Services.  
 `C#` `ASP.NET Core` `Web Api` `Angular` `Azure Cosmos DB` `Azure App Service` `Azure Service Bus`
