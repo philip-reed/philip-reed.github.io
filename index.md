@@ -22,7 +22,7 @@ Having successfully delivered a number of [Projects](/projects), I was promoted 
 `C#` `ASP.NET Core` `Angular` `Blazor` `Web Api` `Azure IaaS/PaaS` `Azure Service Bus` `Azure Cosmos DB` `Git` `MicroServices`
 
 ### <i class="fas fa-fw fa-university"></i> Architecting
-After 4 years as a Lead Developer, I then progressed into an **Application Architect** role responsible for assisting teams with better ways of working, aligning standards, and guidance toward appropriate solutions.
+After 4 years as a Lead Developer, I then progressed into an **Application Architect** role responsible for assisting teams with better ways of working, aligning standards, and guidance toward appropriate solutions.  
 `ADR's` `Standards` `Diagrams` `NFR's` `Documentation` `Training`
 
 ## Socials
