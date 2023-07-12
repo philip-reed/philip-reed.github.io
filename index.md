@@ -5,22 +5,25 @@ Father of 2, who enjoys mountain biking, walking, and spending time with family.
 
 ### <i class="fas fa-fw fa-baby"></i> Where I started
 Fresh from uni at Sheffield Hallam, I started working for a company as a **Software Developer** writing embedded C++ for set-top boxes for satellite TV.  
-Here I got my first taste of enterprise software development, code-review processes, testing and working as part of a software team.  
+Here I got my first taste of enterprise software development, code-review processes, testing, and working as part of a software team.  
 `C++` `ALM`
 
 ### <i class="fas fa-fw fa-user-tie"></i> Levelling up
 From here I moved to a manufacturing firm and wrote and maintained a variety of software ranging from Windows Services, ASP.NET MVC Web Apps & Windows Forms. Most of the code here was VB6 or VB.Net, but this is also where I got my first taste of C# and I have never looked back!  
-I spent quite a lot of time here, and after starting as a **Analyst Programmer**, I progressed to **Team Leader** and lead a small team creating the companies' customer portal and asset management software.
-This is also where I first dipped my toes into Devops and created build and deployment pipelines using Azure Devops (VSTS back then) and Octopus Deploy.
+I spent quite a lot of time here, and after starting as a **Analyst Programmer**, I progressed to **Team Leader** and lead a small team creating the company's customer portal and asset management software.
+This is also where I first dipped my toes into DevOps and created build and deployment pipelines using Azure DevOps (VSTS back then) and Octopus Deploy.
 Check out the [Projects](/projects) page for more info on what I did here.  
 `VB6` `VB.NET` `ASP.NET MVC` `OData` `C#` `Javascript` `Devops` `T-SQL` `TFS`
 
 ### <i class="fas fa-fw fa-medal"></i> Moving on
-I then joined a large retail firm as a **Senior Developer**, working within a team responsible for software running the operations in the warehouses. Here I'd like to think I made a big contribution in bringing my existing Devops knowledge to help the teams update their manual build & deployment process. 
-I led the way in migrating source control away from TFS to git to help streamline devops practices, and also started using Azure, and began my path to becoming certified.
+I then joined a large retail firm as a **Senior Developer**, working within a team responsible for software running the operations in the warehouses. Here I'd like to think I made a big contribution in bringing my existing DevOps knowledge to help the teams update their manual build & deployment process. 
+I led the way in migrating source control away from TFS to git to help streamline DevOps practices, and also started using Azure, and began my path to becoming certified.
 Having successfully delivered a number of [Projects](/projects), I was promoted to **Lead Developer**, this means I have slightly less time to write code and focus more on architecture and mentoring, but I still have a love for technology and continue to expand my skills.  
-`C#` `ASP.NET Core` `Angular` `Web Api` `Azure IaaS/PaaS` `Azure Service Bus` `Azure Cosomos DB` `Git`
+`C#` `ASP.NET Core` `Angular` `Blazor` `Web Api` `Azure IaaS/PaaS` `Azure Service Bus` `Azure Cosmos DB` `Git` `MicroServices`
 
+### <i class="fas fa-fw fa-university"></i> Architecting
+After 4 years as a Lead Developer, I then progressed into an **Application Architect** role responsible for assisting teams with better ways of working, aligning standards, and guidance toward appropriate solutions.
+`ADR's` `Standards` `Diagrams` `NFR's` `Documentation` `Training`
 
 ## Socials
 
