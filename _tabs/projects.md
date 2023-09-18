@@ -4,8 +4,6 @@ icon: fas fa-project-diagram
 order: 5
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-
 ### Workshop Planning
 My first major project was to create a scheduling tool to allow various CNC stations in a workshop to have visibility of upcoming tasks and their priority.
 The software was to replace a card based system where different coloured cards represented the priority of the job.
