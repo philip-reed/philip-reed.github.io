@@ -43,6 +43,14 @@ Tests are more than just making sure your code works, they also provide document
 - `Subtract_DoubleNumber_ReturnsLowerNumber`
 - `Multiple_ZeroNumber_ThrowsException`
 
+#### Alternatives
+
+The simple naming conventions above come with their own downsides, for example, if a method name is refactored, you may then also need to update the names of many tests, which isn't ideal.  
+
+Using Behavior-Driven Development (BDD) as an alternative testing methodology, allows developers to use a common vocabulary for writing tests that is shared with stakeholders and QA teams alike. This allows naming tests in a similar way to how a user story is written and helps keep everyone on the same page.
+
+See [ChillBDD](https://chillbdd.com/documentation/#why-do-you-need-it)
+
 ### Arranging your tests
 Arrange, Act, Assert is a common pattern when unit testing. As the name implies, it consists of three main actions:
 - Arrange your objects, creating and setting them up as necessary.
