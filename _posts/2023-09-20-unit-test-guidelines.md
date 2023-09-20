@@ -21,11 +21,11 @@ The name of your test should consist of three parts:
 - The scenario under which it's being tested.
 - The expected behavior when the scenario is invoked.
 
-::: tip Good test names follow the `When_Given_Then` notation or similar, see alternatives.  
-`When` describes the intent.  
-`Given` describes the context.  
-`Then` describes the expectation
-:::
+> tip Good test names follow the `When_Given_Then` notation or similar, see alternatives.  
+> `When` describes the intent.  
+> `Given` describes the context.  
+> `Then` describes the expectation
+{: .prompt-info }
 
 Naming standards are important because they explicitly express the intent of the test.  
 Tests are more than just making sure your code works, they also provide documentation. Just by looking at the suite of unit tests, you should be able to infer the behavior of your code without even looking at the code itself. Additionally, when tests fail, you can see exactly which scenarios do not meet your expectations.
