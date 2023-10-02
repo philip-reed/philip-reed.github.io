@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/phil-reed.svg
+avatar: /assets/img/Phil-Reed.svg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
