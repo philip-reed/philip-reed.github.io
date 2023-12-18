@@ -37,6 +37,7 @@ A management dashboard was also created to allow management to monitor the volum
 A generic presentation layer rendering the UI for various state machine based applications controlling warehouse processes.
 The Blazor front end provides various pre-defined 'states' where a user is prompted for an action and exposes a contract to which a remote API can implement.
 User inputs are sent to the configured remote API hosting the business process, where any business logic is executed, and a standard response is returned which instructs the State Machine Runner which state to render next.  State Machines are configured using dedicated admin screens, and state is preserved using Cosmos DB.  
+Challenges involved managing the developer experience for teams developing against this API, and also making sure this wasn't a single point of failure for multi-million £ warehouse operations.  
 `C#` `ASP.NET Core` `Web Api` `Blazor` `Azure Cosmos DB` `SignalR` `Azure App Service`
 
 ### Parcel Packing
